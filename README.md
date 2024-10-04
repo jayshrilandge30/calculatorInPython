@@ -1,2 +1,2 @@
 # calculatorInPython
-Created a fully functional calculator application capable of performing basic arithmetic operations.
+Created a fully functional calculator application capable of performing basic arithmetic operations using Python
