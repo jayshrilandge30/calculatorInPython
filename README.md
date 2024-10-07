@@ -15,7 +15,7 @@ This project is a simple calculator application developed in Python. It performs
 ## Installation
 1. Clone the Repository:
     ```bash
-    git clone https://github.com/yourusername/simple-calculator-python.git
+    git clone https://github.com/jayshrilandge30/simple-calculator-python.git
     cd simple-calculator-python
     ```
 2. Run the Calculator:
